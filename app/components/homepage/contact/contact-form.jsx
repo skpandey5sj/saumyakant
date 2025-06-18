@@ -102,6 +102,7 @@ function ContactForm() {
               value={userInput.message}
             />
           </div>
+          
           <div className="flex flex-col items-center gap-3">
             {error.required && <p className="text-sm text-red-400">
               All fiels are required!
@@ -122,6 +123,7 @@ function ContactForm() {
               }
             </button>
           </div>
+
         </div>
       </div>
     </div>

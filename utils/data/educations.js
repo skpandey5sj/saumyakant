@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor Of Computer Applicatilon",
+    duration: "2022 - 2025",
+    institution: "JIMS Greater Noida",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "Higher Secondary Certificate (11th - 12th)",
     duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Vikas Inter Collage ,Prayagraj",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary School Certificate (9th - 10th)",
+    duration: "2016 - 2018",
+    institution: "Vikas Inter Collage ,Prayagraj",
   }
 ]
